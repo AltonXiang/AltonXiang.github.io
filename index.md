@@ -21,6 +21,7 @@ Outside of academia, I prefer to exert my abilities in the field of quantitative
 
 
 ## Awards
+- **[May. 2022]** *Excellent Graduate Award of Fudan University*
 - **[May. 2022]** *Qikezhan Scholarship*
 - **[Nov. 2021]** *National inspirational Scholarship*
 - **[Nov. 2021]** *Huawei Scholarship*
