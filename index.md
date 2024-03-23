@@ -30,12 +30,16 @@ Outside of academia, I prefer to exert my abilities in the field of quantitative
 ## ACTIVITY
 **[Sep. 2023 to Present]**  Deputy secretary
 Communist Youth League of School of Economics, Fudan University
+
 **[Sep. 2023 to Present]**  Deputy secretary
 Communist Youth League of School of Economics, Fudan University
+
 **[Sep. 2022 to Present]**  Class Counselor
 Undergraduate Class of 22, School of Economics, Fudan University
+
 **[Mar. 2021 to Mar. 2022]**  Excutive President
 Communist Youth League of School of Economics, Fudan University
+
 **[Oct. 2020 to Oct. 2021]** Permanent Students Representative
 Fudan University
 
