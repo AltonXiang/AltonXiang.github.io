@@ -7,7 +7,7 @@ layout: homepage
 I'm a M.Sc of Statistics in School of Data Science,  <a href="https://www.fudan.edu.cn/" target="_blank"> Fudan University </a>,
 working under the mentorship of Prof.<a href="https://scholar.google.com/citations?user=UxH6ELwAAAAJ&hl=zh-CN" target="_blank"> Rujun Jiang </a>. My research involves the application of fintech based on machine learning in various aspects, such as stock returns prediction and financial fraud detection. In addition, I am currently interested in end-to-end portfolio optimization.
 
-I studied international economics and trade in School of Economics, Fudan University when I was an undergraduate, so I have a deep understanding of the frontier knowledge of finance. The mathematical knowledge of Statistics also helps me improve my ability of quantitative analysis.
+I studied international economics and trade in School of Economics, Fudan University when I was an undergraduate, so I have a deep understanding of the frontier knowledge of finance. The machine-learning and mathematical knowledge of Statistics also helps me improve my ability of quantitative analysis.
 
 
 Outside of academia, I prefer to exert my abilities in the field of quantitative investment. I have been an avid fan of Chelsea Football Club for over 10 years. I also play football frequently and once won the honor of assisting the king of the football match in the School of Economics.
@@ -15,9 +15,9 @@ Outside of academia, I prefer to exert my abilities in the field of quantitative
 
 ## Research Interests
 - **Stock returns prediction:** Designing interpretable machine learning models for financial markets
-- **End-to-End Portfolio Optimization:** Differentiable optimized layer of the portfolio
+- **End-to-End Portfolio Optimization:** Differentiable optimized layer of the portfolio and Improvement of traditional asset allocation methods
 - **Financial Fraud Detection:** Imbalanced Classification and adversarial learning
-- **Quant:** Statistical and mathematical methods to conduct quantitative strategy research
+- **Quant:** Statistical and ML methods to conduct quantitative strategy research
 
 
 ## Awards
