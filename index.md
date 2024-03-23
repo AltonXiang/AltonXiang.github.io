@@ -9,10 +9,8 @@ working under the mentorship of Prof.`<a href="https://scholar.google.com/citati
 
 I studied international economics and trade in School of Economics, Fudan University when I was an undergraduate, so I have a deep understanding of the frontier knowledge of finance. The mathematical knowledge of Statistics also helps me improve my ability of quantitative analysis.
 
-<!-- 
-I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
 
-Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
+Outside of academia, I have been an avid fan of Chelsea Football Club for over 10 years. I also play football frequently and once won the honor of assisting the king of the football match in the School of Economics.
 
 
 ## Research Interests
