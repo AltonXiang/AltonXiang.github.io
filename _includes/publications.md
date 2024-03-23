@@ -13,7 +13,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">RSAP-DFM: Regime-Shifting Adaptive Posterior Dynamic Factor Model for Stock Returns Prediction</div>
-    <div class="author">Quanzhou Xiang, Zhan Chen, Qi Sun, Rujun Jiang</div>
+    <div class="author"> <strong>Quanzhou Xiang </strong>, Zhan Chen, Qi Sun, Rujun Jiang</div>
     <div class="periodical"><em>Submitted to IJCAI2024, Jan. 2024.</em></div>
   </div>
 </div>
