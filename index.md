@@ -43,8 +43,7 @@ Communist Youth League of School of Economics, Fudan University
 **[Oct. 2020 to Oct. 2021]** Permanent Students Representative
 Fudan University
 
-<!-- {% include_relative _includes/publications.md %} -->
-
+{% include_relative _includes/publications.md %}
 
 
 
