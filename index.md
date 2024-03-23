@@ -10,7 +10,7 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 I studied international economics and trade in School of Economics, Fudan University when I was an undergraduate, so I have a deep understanding of the frontier knowledge of finance. The machine-learning and mathematical knowledge of Statistics also helps me improve my ability of quantitative analysis.
 
 
-Outside of academia, I prefer to exert my abilities in the field of quantitative investment. I have been an avid fan of Chelsea Football Club for over 10 years. I also play football frequently and once won the honor of assisting the king of the football match in the School of Economics.
+Outside of academia, I prefer to exert my abilities in the field of quantitative investment. I have been an avid fan of Chelsea Football Club for over 10 years. I also play football frequently and once won the honor of Assist King of the football match in the School of Economics.
 
 
 ## Research Interests
@@ -43,6 +43,7 @@ Communist Youth League of School of Economics, Fudan University
 **[Oct. 2020 to Oct. 2021]** Permanent Students Representative
 Fudan University
 
+<!-- {% include_relative _includes/publications.md %} -->
 
 
 
