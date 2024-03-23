@@ -4,8 +4,8 @@ layout: homepage
 
 ## About Me
 
-I'm a M.Sc of Statistics in School of Data Science,  `<a href="https://www.fudan.edu.cn/" target="_blank">` Fudan University `</a>`,
-working under the mentorship of Prof.`<a href="https://scholar.google.com/citations?user=UxH6ELwAAAAJ&hl=zh-CN" target="_blank">` Rujun Jiang `</a>`. My research involves the application of fintech based on machine learning in various aspects, such as stock returns prediction and financial fraud detection. In addition, I am currently interested in end-to-end portfolio optimization.
+I'm a M.Sc of Statistics in School of Data Science,  <a href="https://www.fudan.edu.cn/" target="_blank"> Fudan University </a>,
+working under the mentorship of Prof.<a href="https://scholar.google.com/citations?user=UxH6ELwAAAAJ&hl=zh-CN" target="_blank">` Rujun Jiang </a>. My research involves the application of fintech based on machine learning in various aspects, such as stock returns prediction and financial fraud detection. In addition, I am currently interested in end-to-end portfolio optimization.
 
 I studied international economics and trade in School of Economics, Fudan University when I was an undergraduate, so I have a deep understanding of the frontier knowledge of finance. The mathematical knowledge of Statistics also helps me improve my ability of quantitative analysis.
 
@@ -14,10 +14,10 @@ Outside of academia, I have been an avid fan of Chelsea Football Club for over 1
 
 
 ## Research Interests
-- **Stock returns prediction:** designing interpretable machine learning models for financial markets
-- **End-to-End Portfolio Optimization:** differentiable optimized layer of the portfolio
+- **Stock returns prediction:** Designing interpretable machine learning models for financial markets
+- **End-to-End Portfolio Optimization:** Differentiable optimized layer of the portfolio
 - **Financial Fraud Detection:** Imbalanced Classification and adversarial learning
-- **quant:** use statistical and mathematical methods to conduct quantitative strategy research
+- **Quant:** Statistical and mathematical methods to conduct quantitative strategy research
 
 
 ## Awards
