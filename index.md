@@ -28,11 +28,11 @@ Outside of academia, I prefer to exert my abilities in the field of quantitative
 - **[Sep. 2019,2020,2021]** *Fudan University Undergraduate Scholarships*
 
 ## ACTIVITY
-**[Sep. 2023 to Present]**  Deputy secretary
+**[Sep. 2023 to Present]**  Deputy Secretary
 
 *Communist Youth League of School of Economics, Fudan University*
 
-**[Sep. 2023 to Present]**  Deputy secretary
+**[Sep. 2023 to Present]**  Secretary General
 
 *Communist Youth League of School of Economics, Fudan University*
 
