@@ -9,7 +9,7 @@
 <li>
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 60px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 5px;padding-left: 5px;">
     <img src="assets/img/收益率.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Since 2024.3.11</abbr>
   </div>
