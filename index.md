@@ -50,6 +50,6 @@ Outside of academia, I prefer to exert my abilities in the field of quantitative
 
 {% include_relative _includes/publications.md %}
 
-
+{% include_relative _includes/projects.md %}
 
 
