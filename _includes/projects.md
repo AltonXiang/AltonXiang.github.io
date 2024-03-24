@@ -15,14 +15,14 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Proprietary quantitative strategies in the A-share market Since 2024.03.11s</div>
+    <div class="title">Proprietary quantitative strategies in the A-share market</div>
     <div class="author"><strong>Quanzhou Xiang</strong></div>
+    <div class="periodical"><em>Since 2024.03.11</em></div>
   </div>
 </div>
 </li>
-  
-<img src="assets/img/收益率.jpg" title="Proprietary quantitative strategies in the A-share market Since 2024.03.11" width="500" height="300">
-  
+Cumulative Returns (Mine): 9.62%
+Cumulative Returns (Shanghai Stock Exchange Index): 0.01%
 
   
 <br>
