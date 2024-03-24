@@ -27,7 +27,7 @@ Outside of academia, I prefer to exert my abilities in the field of quantitative
 - **[Nov. 2021]** *Huawei Scholarship*
 - **[Sep. 2019,2020,2021]** *Fudan University Undergraduate Scholarships*
 
-## Activity
+## Activities
 **[Sep. 2023 to Present]**  Deputy Secretary
 
 *Communist Youth League of School of Economics, Fudan University*
