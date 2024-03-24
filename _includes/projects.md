@@ -22,6 +22,7 @@
 </div>
 </li>
 Cumulative Returns (Mine): 9.62%
+
 Cumulative Returns (Shanghai Stock Exchange Index): 0.01%
 
   
