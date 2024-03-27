@@ -54,7 +54,7 @@ Outside of academia, I prefer to exert my abilities in the field of quantitative
 
 **[Cumulative Returns (My strategy)] : 11.79%**
 <br>
-**[Cumulative Returns(Shanghai Stock Exchange Index)] : -1.79%**
+**[Cumulative Returns(Shanghai Stock Exchange Index)] : -1.74%**
 <br>
 *If you want to know more about my strategy, please contact me for further communication!*
 
