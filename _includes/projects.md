@@ -16,7 +16,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Proprietary quantitative strategies in the A-share market</div>
     <div class="author"><strong>Quanzhou Xiang</strong></div>
-    <div class="periodical"><em>Since 2024.03.11</em></div>
+    <div class="periodical"><em>Since 2024.03.11</em> (updated at 2024.03.27)</div>
   </div>
 </div>
 </li>
